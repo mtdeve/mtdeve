@@ -1,4 +1,19 @@
-## Hi there 👋
+##  Hi there 👋
+### I'm **Mirko**, Trainee **IT Specialist in Application Development**.
+
+- [x] My greatest **strength**💡 is combining different experiences to find **innovative solutions**,<br>
+and I have a talent for **optimization** and **problem-solving**.
+
+- [x] I am **passionate**🔥 about **programming** and **creating** content that **improves** people's lifestyles;<br>
+ I enjoy applying **technology**, building things, and producing multimedia content.
+ 
+- [x] I value 🌱**sustainability** and **integrity**.
+ <br><br>
+---
+- [ ]  *Currently*📌: **Looking for a 9‑month apprenticeship** *starting in* **October 2026** *in* **Berlin**.
+- [ ]  *You can reach me📫 via my* **GitHub** *profile's contact form or* **LinkedIn**.
+
+
 
 <!--
 **mtdeve/mtdeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
