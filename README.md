@@ -11,7 +11,7 @@ and I have a talent for **optimization** and **problem-solving**.
  <br><br>
 ---
 - [ ]  *Currently*📌: **Looking for a 9‑month apprenticeship** *starting in* **October 2026** *in* **Berlin**.
-- [ ]  *You can reach me📫: via my* **GitHub** *profile's contact form or* **[LinkedIn](https://www.linkedin.com/in/mirkotardioit/)**.
+- [ ]  *You can reach me📫: via my* **GitHub** *profile or* **[LinkedIn](https://www.linkedin.com/in/mirkotardioit/)**.
 
 
 
