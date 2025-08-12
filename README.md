@@ -13,8 +13,9 @@ and I have a talent for **optimization** and **problem-solving**.
 - [ ]  *Currently*📌: **Looking for a 9‑month apprenticeship** *starting in* **October 2026** *in* **Berlin**.
 - [ ]  *You can reach me📫: via my* **GitHub** *profile or* **[LinkedIn](https://www.linkedin.com/in/mirkotardioit/)**.
 
-
-
+```python
+print{"Hello, World!"}
+```
 <!--
 **mtdeve/mtdeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
