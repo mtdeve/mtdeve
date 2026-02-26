@@ -1,4 +1,6 @@
 ##  Hi there 👋
+
+
 ### I'm **Mirko**, Trainee **IT Specialist in Application Development**.
 
 - [x] My greatest **strength**💡 is combining different experiences to find **innovative solutions**,<br>
@@ -9,6 +11,7 @@ and I have a talent for **optimization** and **problem-solving**.
  
 - [x] I value 🌱**sustainability** and **integrity**.
  <br><br>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mtdeve=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ---
 - [ ]  *Currently*📌: **Looking for a 9‑month apprenticeship** *starting in* **October 2026** *in* **Berlin**.
 - [ ]  *You can reach me📫: via my* **GitHub** *profile or* **[LinkedIn](https://www.linkedin.com/in/mirkotardioit/)**.
