@@ -41,15 +41,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,bash,lua,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,mysql,mongodb,bash,lua,cpp" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,mysql,mongodb,tailwind,arduino,npm,git,github,vue,vscode,vim,androidstudio"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,arduino,npm,git,github,vue,vscode,vim,androidstudio"/>
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,cmake,blender,notion,unity,vite,debian,linux,kali,windows" />
   </a>
 </p>
+
 
 - [x] I am **passionate**🔥 about **programming** and **creating** content that **improves** people's lifestyles;<br>
  I enjoy applying **technology**, building things, and producing multimedia content.
