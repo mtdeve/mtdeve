@@ -40,17 +40,27 @@
 
 **💻MY Tech Stack:**
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,mysql,mongodb,bash,lua,cpp" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,git,github,vue,vscode,vim,androidstudio,nodejs,react,tailwind,arduino"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,cmake,blender,notion,unity,vite,debian,linux,kali,windows" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,mysql,mongodb,bash,lua,cpp" />
+      </a>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=npm,git,github,vue,vscode,vim,androidstudio,nodejs,react,tailwind,arduino"/>
+      </a>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=figma,cmake,blender,notion,unity,vite,debian,linux,kali,windows" />
+      </a>
+    </td>
+    <td width="30%" align="right">
+      <p><b>Languages:</b></p>
+      <p>· IT : ★★★★★</P>
+      <p>· DE : ★★★☆☆</P>
+      <p>· EN : ★★☆☆☆</P>
+      <p>· SP : ★★☆☆☆</P></td>
+  </tr>
+</table>
 
 
 - ### 🔥 I am **passionate** about **programming** and **creating** content that **improves** people's lifestyles;
