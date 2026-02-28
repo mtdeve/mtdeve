@@ -1,7 +1,35 @@
-##  Hi there 👋
+<table width="100%">
+  <tr>
+    <td width="48%">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=D6D6FF&width=170&lines=Hi+there!%F0%9F%91%8B" />
+      </a>
+    </td>
+    <td width="48%" align="right">
+      <a href="mailto:TUAEMAIL@gmail.com">
+        <img src="https://img.shields.io/badge/Email-d6d6ff?style=for-the-badge&logo=gmail&logoColor=41445C" />
+      </a>
+    </td>  
+  </tr>
+</table>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=d6d6ff&text=developer: mtdeve&fontAlign=50&descAlignY=33&section=header&reversal=false&fontColor=41445C&animation=twinkling" />
+</p>
 
-### I'm **Mirko**, Trainee **IT Specialist in Application Development**.
+<p align="center">visit my profiles:</p>
+
+<p align="center">
+  <a href="https://mirkotardio.com">
+    <img src="https://img.shields.io/badge/MYhome-d6d6ff?style=for-the-badge&logo=google-chrome&logoColor=41445C" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/mirkotardioit">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+# I'm **Mirko**, Trainee **IT Specialist in Application Development**
 
 - [x] My greatest **strength**💡 is combining different experiences to find **innovative solutions**,<br>
 and I have a talent for **optimization** and **problem-solving**.
