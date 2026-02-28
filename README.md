@@ -41,7 +41,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html,css,tailwind,js,nodejs,react,mysql,mongodb,php,arduino,cpp,cmake,bash,lua,npm,git,github,vue,vscode,vim,androidstudio,figma,blender,notion,unity,vite,debian,linux,kali,windows" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,bash,lua,cpp" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,mysql,mongodb,tailwind,arduino,npm,git,github,vue,vscode,vim,androidstudio"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,cmake,blender,notion,unity,vite,debian,linux,kali,windows" />
   </a>
 </p>
 
