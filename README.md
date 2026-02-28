@@ -5,7 +5,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=D6D6FF&width=170&lines=Hi+there!%F0%9F%91%8B" />
       </a>
     </td>
-    <td width="48%" align="right">
+    <td align="right">
       <a href="mailto:TUAEMAIL@gmail.com">
         <img src="https://img.shields.io/badge/Email-d6d6ff?style=for-the-badge&logo=gmail&logoColor=41445C" />
       </a>
