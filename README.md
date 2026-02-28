@@ -13,9 +13,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/apitype=venom&height=220&color=d6d6ff&text=developer:mtdeve&fontAlign=50&descAlignY=33&section=header&reversal=false&fontColor=41445C&animation=twinkling" />
-</div>
+<img src="https://capsule-render.vercel.app/apitype=venom&height=220&color=d6d6ff&text=developer:mtdeve&fontAlign=50&descAlignY=33&section=header&reversal=false&fontColor=41445C&animation=twinkling" />
 
 <p align="center">visit my profiles:</p>
 
