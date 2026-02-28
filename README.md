@@ -32,8 +32,18 @@
 
 # I'm **Mirko**, Trainee **IT Specialist in Application Development**
 
-- [x] My greatest **strength**💡 is combining different experiences to find **innovative solutions**,<br>
-and I have a talent for **optimization** and **problem-solving**.
+- ### 💡 My greatest **strength** is combining different experiences to find **innovative solutions**, and I have a talent for **optimization** and **problem-solving**.
+
+<blockquote align="right">
+  <em>“Knowledge, like air, is vital to life.” - cit: "V for V"</em> 
+</blockquote>
+<strong>💻MY Tech Stack:</strong>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,tailwind,js,nodejs,react,mysql,mongodb,php,arduino,cpp,cmake,bash,lua,npm,git,github,vue,vscode,vim,androidstudio,figma,blender,notion,unity,vite,debian,linux,kali,windows" />
+  </a>
+</p>
 
 - [x] I am **passionate**🔥 about **programming** and **creating** content that **improves** people's lifestyles;<br>
  I enjoy applying **technology**, building things, and producing multimedia content.
