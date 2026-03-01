@@ -38,7 +38,7 @@
   <em>“Knowledge, like air, is vital to life.”</em> 
 </blockquote>
 
-**💻MY Tech Stack:**
+**💻 MY Tech Stack:**
 
 <table>
   <tr>
@@ -84,8 +84,6 @@
   <img width="41%" src="https://streak-stats.demolab.com?user=mtdeve&theme=nord" />
 </p>
 
-
- 
 - ### 🌱 I value **sustainability** and **integrity**.
 
 <blockquote align="right">
@@ -97,24 +95,28 @@
 ![ISO 27034](https://img.shields.io/badge/Security-ISO%2FIEC%2027034-003399?style=for-the-badge&logo=iso&logoColor=white)
 ![ISO 25010](https://img.shields.io/badge/Quality-ISO%2FIEC%2025010-005FB8?style=for-the-badge&logo=iso&logoColor=white)
 ![SRE Honeycomb](https://img.shields.io/badge/SRE-Honeycomb-FF6F00?style=for-the-badge&logo=honeycomb&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/DevOps-Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Green Software](https://img.shields.io/badge/Green%20Software-Foundation-2BB24C?style=for-the-badge&logo=leaflet&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Methodology-2496ED?style=for-the-badge&logo=devdottoops&logoColor=white)
+![Green Software](https://img.shields.io/badge/Green%20Software-GSF-2BB24C?style=for-the-badge&logo=leaf&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Entry%20Level-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scrum](https://img.shields.io/badge/Agile-Scrum%20Foundation-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Agile-Scrum%20Foundation-009FDA?style=for-the-badge&logo=scrum-alliance&logoColor=white)
 
+---
 
-- [ ]  *Currently*📌: **Looking for a 9‑month apprenticeship** *starting in* **October 2026** *in* **Berlin**.
-- [ ]  *You can reach me📫via my email adress:
+- [ ] *Currently*📌: **Looking for a 9‑month apprenticeship** *starting in* **October 2026** *in* **Berlin**.
+- [ ] *You can reach me📫 via my email address:
+
 <p align="right">
-  <a  href="mailto:mt.mirko@live.it">
-          <img src="https://img.shields.io/badge/Email-d6d6ff?style=for-the-badge&logo=gmail&logoColor=41445C" />
+  <a href="mailto:mt.mirko@live.it">
+    <img src="https://img.shields.io/badge/Email-d6d6ff?style=for-the-badge&logo=gmail&logoColor=41445C" />
   </a>
 </p>
 
 
-
-❤️
-
 ```python
-print{"Hello, World!"}
+print("Hello, World!")
 ```
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mtdeve&label=PROFILE+VIEWS&color=191970&style=flat" alt="mtdeve" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+</p>
