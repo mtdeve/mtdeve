@@ -18,27 +18,23 @@
 </p>
 
 <p align="center">visit my profiles:</p>
-
 <p align="center">
   <a href="https://mirkotardio.com">
-    <img src="https://img.shields.io/badge/MYhome-d6d6ff?style=for-the-badge&logo=google-chrome&logoColor=41445C" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mirkotardioit">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/MYhome-d6d6ff?style=for-the-badge&logo=google-chrome&logoColor=41445C"/></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/mirkotardioit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 
 # I'm **Mirko**, Trainee **IT Specialist in Application Development**
 
-- ### 💡 My greatest **strength** is combining different experiences to find **innovative solutions**;
+
+- ### My greatest **strength** is combining different experiences to find **innovative solutions**;
   I have a talent for **optimization** and **problem-solving**.
 
 <blockquote align="right">
   <em>“Knowledge, like air, is vital to life.”</em> 
 </blockquote>
 
-**💻 MY Tech Stack:**
+**MY Tech Stack:**
 
 <table>
   <tr>
@@ -70,27 +66,27 @@
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci-Resolve-233A51?logo=davinciresolve&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS-Studio-302E31?logo=obsstudio&logoColor=white)
 
-- ### 🔥 I am **passionate** about **programming** and **creating** content that **improves** people's lifestyles;
+- ### I am **passionate** about **programming** and **creating** content that **improves** people's lifestyles;
   I enjoy applying **technology**, building things, and producing multimedia content.
 
 <blockquote align="right">
   <em>“Behind this mask there is an idea… and ideas are bulletproof.”</em> 
 </blockquote>
 
-**📊 GitHub Stats:**
+**GitHub Stats:**
 
 <p align="center">
   <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtdeve&theme=nord_dark" />
   <img width="41%" src="https://streak-stats.demolab.com?user=mtdeve&theme=nord" />
 </p>
 
-- ### 🌱 I value **sustainability** and **integrity**.
+- ### I value **sustainability** and **integrity**.
 
 <blockquote align="right">
   <em>“Our integrity sells for so little, but it is all we really have.”</em> 
 </blockquote>
 
-**🗺️ My Learning Journey & Curiosities:**
+**My Learning Journey & Curiosities:**
 
 ![ISO 27034](https://img.shields.io/badge/Security-ISO%2FIEC%2027034-003399?style=for-the-badge&logo=iso&logoColor=white)
 ![ISO 25010](https://img.shields.io/badge/Quality-ISO%2FIEC%2025010-005FB8?style=for-the-badge&logo=iso&logoColor=white)
@@ -102,8 +98,8 @@
 
 ---
 
-- [ ] *Currently*📌: **Looking for a 9‑month apprenticeship** *starting in* **October 2026** *in* **Berlin**.
-- [ ] *You can reach me📫 via my email address:
+- [ ] *Currently*: **Looking for a 9‑month apprenticeship** *starting in* **October 2026** *in* **Berlin**.
+- [ ] *You can reach me via my email address:
 
 <p align="right">
   <a href="mailto:mt.mirko@live.it">
