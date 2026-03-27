@@ -6,7 +6,7 @@
       </a>
     </td>
     <td width="48%" align="right">
-      <a href="mailto:mt.mirko@live.it">
+      <a href="mailto:mirkotardio@web.de">
         <img src="https://img.shields.io/badge/Email-d6d6ff?style=for-the-badge&logo=gmail&logoColor=41445C" />
       </a>
     </td>  
@@ -102,7 +102,7 @@
 - [ ] *You can reach me via my email address:
 
 <p align="right">
-  <a href="mailto:mt.mirko@live.it">
+  <a href="mailto:mirkotardio@web.de">
     <img src="https://img.shields.io/badge/Email-d6d6ff?style=for-the-badge&logo=gmail&logoColor=41445C" />
   </a>
 </p>
