@@ -76,7 +76,7 @@
 **GitHub Stats:**
 
 <p align="center">
-  <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtdeve&theme=nord_dark" />
+  <img width="57%" src="profile-summary-card-output/nord_dark/0-profile-details.svg" />
   <img width="41%" src="https://streak-stats.demolab.com?user=mtdeve&theme=nord" />
 </p>
 
