@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/MYhome-d6d6ff?style=for-the-badge&logo=google-chrome&logoColor=41445C"/></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/mirkotardioit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-
 # I'm **Mirko**, Trainee **IT Specialist in Application Development**
 
 
@@ -99,9 +98,12 @@
 ---
 
 - [ ] *Currently*: **Looking for a 9‑month apprenticeship** *starting in* **October 2026** *in* **Berlin**.
-- [ ] *You can reach me via my email address:
+- [ ] You can reach me via my email address:
 
 <p align="right">
+  <a href="https://github.com/sponsors/mtdeve">
+    <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%96-pink?style=for-the-badge&logo=github" alt="Sponsor mtdeve" />
+  </a>
   <a href="mailto:mirkotardio@web.de">
     <img src="https://img.shields.io/badge/Email-d6d6ff?style=for-the-badge&logo=gmail&logoColor=41445C" />
   </a>
@@ -111,7 +113,8 @@
 ```python
 print("Hello, World!")
 ```
-
+<p align="right">
+</p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mtdeve&label=PROFILE+VIEWS&color=191970&style=flat" alt="mtdeve" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
