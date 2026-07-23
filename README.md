@@ -75,8 +75,14 @@
 **GitHub Stats:**
 
 <p align="center">
-  <img width="57%" src="profile-summary-card-output/nord_dark/0-profile-details.svg" />
-  <img width="41%" src="https://streak-stats.demolab.com?user=mtdeve&theme=nord" />
+  <img width="56%" src="https://raw.githubusercontent.com/mtdeve/mtdeve/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+  <img width="40%" src="https://streak-stats.demolab.com?user=mtdeve&theme=nord" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://raw.githubusercontent.com/mtdeve/mtdeve/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/mtdeve/mtdeve/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/mtdeve/mtdeve/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
 </p>
 
 - ### I value **sustainability** and **integrity**.
@@ -101,11 +107,11 @@
 - [ ] You can reach me via my email address:
 
 <p align="right">
-  <a href="https://github.com/sponsors/mtdeve">
-    <img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%96-pink?style=for-the-badge&logo=github" alt="Sponsor mtdeve" />
-  </a>
   <a href="mailto:mirkotardio@web.de">
     <img src="https://img.shields.io/badge/Email-d6d6ff?style=for-the-badge&logo=gmail&logoColor=41445C" />
+  </a>
+  <a href="https://github.com/sponsors/mtdeve">
+    <img src="https://img.shields.io/badge/Support My Work-%F0%9F%92%96-pink?style=for-the-badge&logo=github" alt="Sponsor mtdeve" />
   </a>
 </p>
 
