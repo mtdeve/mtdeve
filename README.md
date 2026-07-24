@@ -76,7 +76,7 @@
 
 <p align="center">
   <img width="56%" src="https://raw.githubusercontent.com/mtdeve/mtdeve/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-  <img width="40%" src="https://streak-stats.demolab.com?user=mtdeve&theme=nord" />
+  <img width="40%" src="./streak-stats.svg" />
 </p>
 
 <p align="center">
