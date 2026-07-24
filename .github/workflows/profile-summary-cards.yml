@@ -1,21 +1,22 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
+  push:
+    branches:
+      - main # on push
   schedule:
-    - cron: "0 0 * * *" # Esegue ogni 24 ore
-  workflow_dispatch: # Permette l'avvio manuale
-
+    - cron: "0 0 * * *" # every day at 00h
+  workflow_dispatch: # also manual
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
     permissions:
-      contents: write # Permesso fondamentale per salvare i file nel repo
+      contents: write
       
     steps:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
         with:
           USERNAME: mtdeve
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
