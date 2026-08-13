@@ -103,8 +103,10 @@
 
 ---
 
-- [ ] *Currently*: **Looking for a 9‑month apprenticeship** *starting in* **October 2026** *in* **Berlin**.
-- [ ] You can reach me via my email address:
+- [x] *Met*: **Looking for a 9‑month apprenticeship** *starting in* **November 2026** *in* **Berlin**.
+- [ ] *Currently*: **Preparing for my IHK examination** *until* **July 2027**.
+- [ ] *Backlog*: **Seeking a full‑time position** *starting in* **August 2027**.
+
 
 <p align="right">
   <a href="mailto:mirkotardio@web.de">
