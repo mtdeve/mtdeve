@@ -39,7 +39,7 @@
   <tr>
     <td align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,mysql,mongodb,bash,lua,cpp" />
+        <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,mongodb,bash,lua,cpp" />
       </a>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=npm,git,github,vue,vscode,vim,androidstudio,nodejs,react,tailwind,arduino"/>
@@ -52,7 +52,7 @@
       <p><b>Languages:</b></p>
       <p>· IT : ★★★★★</P>
       <p>· DE : ★★★☆☆</P>
-      <p>· EN : ★★☆☆☆</P>
+      <p>· EN : ★★★☆☆</P>
       <p>· SP : ★★☆☆☆</P></td>
   </tr>
 </table>
