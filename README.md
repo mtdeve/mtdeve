@@ -39,13 +39,13 @@
   <tr>
     <td align="left">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,mongodb,bash,lua,cpp" />
+        <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,bash,lua,cpp,c" />
       </a>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=npm,git,github,vue,vscode,vim,androidstudio,nodejs,react,tailwind,arduino"/>
+        <img src="https://skillicons.dev/icons?i=npm,git,vue,vscode,vim,nodejs,react,tailwind,androidstudio,mongodb"/>
       </a>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,cmake,blender,notion,unity,vite,debian,linux,kali,windows" />
+        <img src="https://skillicons.dev/icons?i=github,figma,notion,blender,arduino,unity,vite,cmake,linux,windows" />
       </a>
     </td>
     <td width="30%" align="right">
@@ -53,14 +53,15 @@
       <p>· IT : ★★★★★</P>
       <p>· DE : ★★★☆☆</P>
       <p>· EN : ★★★☆☆</P>
-      <p>· SP : ★★☆☆☆</P></td>
+      <p>· SP : ★★★☆☆</P></td>
   </tr>
 </table>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-000000?logo=intellijidea&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white)
-![Parrot Security OS](https://img.shields.io/badge/Parrot-Security_OS-15AABF)
-![Kali Linux OS](https://img.shields.io/badge/Kali-Linux_OS-15AABF)
+![Parrot Security](https://img.shields.io/badge/Parrot_OS-000000?style=for-the-badge&logo=parrotsecurity&logoColor=05EEFF)
+![Debian](https://img.shields.io/badge/Debian-C51A4A?style=for-the-badge&logo=Debian)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-FFFFFF?style=for-the-badge&logo=kalilinux&logoColor=white&color=black)
 ![GIMP 3](https://img.shields.io/badge/GIMP-3-5C5543?logo=gimp&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci-Resolve-233A51?logo=davinciresolve&logoColor=white)
